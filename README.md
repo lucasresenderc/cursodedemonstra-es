@@ -1,2 +1,2 @@
-# cursodedemonstra-es
+# Curso Demonstrações
 Repositório do curso.
